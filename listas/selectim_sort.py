@@ -11,5 +11,5 @@ def selection_sort(lista):
         lista[i], lista[menor] = lista[menor], lista[i]
     return lista
  
-print(selection_sort(números))
+print(selection_sort(numeros))
  
